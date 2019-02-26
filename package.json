@@ -1,0 +1,25 @@
+{
+  "name": "junit-xml-stats",
+  "version": "1.0.0",
+  "description": "Simple stats reporter for JUnit xml files",
+  "main": "index.js",
+  "bin": {
+    "junit-xml-stats": "./lib/parser.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orbs-network/junit-xml-stats.git"
+  },
+  "author": "Itamar Arjuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orbs-network/junit-xml-stats/issues"
+  },
+  "homepage": "https://github.com/orbs-network/junit-xml-stats#readme",
+  "dependencies": {
+    "fast-xml-parser": "^3.12.13"
+  }
+}
