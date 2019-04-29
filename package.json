@@ -1,6 +1,6 @@
 {
   "name": "junit-xml-stats",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple stats reporter for JUnit xml files",
   "main": "index.js",
   "bin": {
